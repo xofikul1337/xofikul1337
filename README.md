@@ -70,13 +70,13 @@
   <br>
   Bins Chanel: <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a>
   <br>
-  Subscribe YouTube: <a href="https://youtube.com/@teamxofficial-1337">Teamxofficial-1337</a>
+  Subscribe YouTube: <a href="https://youtube.com/@teamxofficial-1337">Subscribe Now</a>
   <br>
-  My website: <a href="https://teamxstore.com">Teamxstore</a>
+  My website: <a href="https://teamxstore.com">Visit Now</a>
   </samp>
   </p>
  <h5>You can reach me anytime at: xofikul@gmail.com<br/><br/>
-Ask me about anything [here](https://t.me/S80F9K6L1337)
+Ask me about anything : https://t.me/S80F9K6L1337
  </h5>
 
 </b>
