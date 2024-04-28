@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<p style="text-align:center; color:#FF0000; font-weight:bold;">UI UX Designer And Developer: Android App, Front End Developer: Website Full Stack Developer:Telegram Bot Writer of Trickbd.
+<p style="text-align:center; color:#FF0000; font-weight:bold;">Programmer & Developer : App | Web | TG Bot. Founder Of : TEAM X 1337 Learn Hacking And Get Premium Tools Join Now TEAM X 1337
 </p>
 
     
