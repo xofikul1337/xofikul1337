@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/xofikul1337">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing SVG">
     </a>
 </p>
 
@@ -27,8 +27,8 @@
 
 <p align="center"> 
     <hr>
-    <a href="https://github.com/xofikul1337">
-        <img src="https://img.shields.io/badge/Hand%20Clap-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="My Portfolio">
+    <a https://github.com/xofikul1337
+        <img src="https://img.shields.io/badge/My%20Portfolio-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="My Portfolio">
     </a>
     <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1" style="margin-left: 20px;">
         <img src="https://img.shields.io/badge/Find%20me%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Find Me In Google" />
