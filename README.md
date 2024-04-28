@@ -7,13 +7,13 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/xofikul1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=xofikul1337">
+  <img align="right" src="https://komarev.com/ghpvc/?username=xofikul1337&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -22,18 +22,26 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Shofikul Islam</a></b>
+                <b><a target="_blank" href="https://github.com/xofikul1337">Shofikul Islam</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Shofikul+Islam">ã€Œ Google Me ã€</a>
+    <a href="https://www.google.com/search?q=Shofikul+Islam">Find Me Google  </a>
     <br>
-    ã€Œ I am a skilled UI/UX designer and Android app developer, with additional expertise in front-end web development. I can also create full-stack Telegram bots. ã€
+  I am the founder of TEAM X 1337. Join now community to growth your knowledge and learn hacking and techy tips from all over the world.
     <br>
+     Join Telegram Chanel: <a href="https://t.me/Teamx1337official">Teamx1337official</a> 
     <br>
+     MODZ Chanel: <a href="https://t.me/TX1337_mods">TX1337_mods</a> 
+    <br>
+     Bins Chanel: <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a> 
+    <br>
+    Subscribe YouTube: <a href="https://youtube.com/@teamxofficial-1337">Teamxofficial-1337</a> 
+    <br>
+    ã€Œ My website: <a href="https://teamxstore.com">Teamxstore</a> 
   </samp>
 </p>
 
@@ -62,10 +70,10 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- âœŒï¸ &emsp; Learning new ways and words is my hobby <br/><br/>
- â¤ï¸ &emsp; I enjoy coding and sharing knowledge<br/><br/>
- ðŸ“§ &emsp; You can reach me anytime at: shofikul.dev@gmail.com<br/><br/>
- ðŸ’¬ &emsp; Ask me about anything [here](https://github.com/shofikuldev/shofikuldev/issues)
+ &emsp; Learning new ways and words is my hobby <br/><br/>
+  &emsp; I enjoy coding and sharing knowledge<br/><br/>
+ &emsp; You can reach me anytime at: xofikul@gmail.com<br/><br/>
+  &emsp; Ask me about anything [here](https://t.me/S80F9K6L1337)
 
 </p>
 
@@ -73,7 +81,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Use To Code | Familiar With 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
@@ -87,8 +95,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
 ![Hosting](https://img.shields.io/badge/Hosting-0078D4?style=for-the-badge&labelColor=black&logo=microsoft%20azure&logoColor=0078D4)
 
-<br/>
-
+<hr>
 <p align="center">
   <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1">
     <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Me" />
