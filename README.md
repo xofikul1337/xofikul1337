@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shofikul Islam</title>
 </head>
 <body>
 
@@ -28,8 +27,8 @@
 
 <p align="center"> 
     <hr>
-    <a href="https://handclap.org/">
-        <img src="https://img.shields.io/badge/Hand%20Clap-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="Hand Clap">
+    <a href="https://github.com/xofikul1337">
+        <img src="https://img.shields.io/badge/Hand%20Clap-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="My Portfolio">
     </a>
     <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1" style="margin-left: 20px;">
         <img src="https://img.shields.io/badge/Find%20me%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Find Me In Google" />
