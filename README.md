@@ -3,19 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style>
-        /* Style for animated bullets */
-        .bullet {
-            display: inline-block;
-            animation: bullet-animation 1s infinite alternate;
-        }
-
-        @keyframes bullet-animation {
-            0% { transform: scale(1); }
-            100% { transform: scale(1.5); }
-        }
-    </style>
+    <title>Shofikul Islam</title>
 </head>
 <body>
 
@@ -34,14 +22,17 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
-<h3 align="center">
+<h3 align="center" style="margin-bottom: 0;">
     <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://github.com/xofikul1337">Shofikul Islam</a></b></samp>
 </h3>
 
 <p align="center"> 
     <hr>
-    <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1">
-        <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Find Me In Google" />
+    <a href="https://handclap.org/">
+        <img src="https://img.shields.io/badge/Hand%20Clap-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="Hand Clap">
+    </a>
+    <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1" style="margin-left: 20px;">
+        <img src="https://img.shields.io/badge/Find%20me%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Find Me In Google" />
     </a>
 </p>
 
