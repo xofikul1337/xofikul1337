@@ -7,7 +7,7 @@
 <body>
 
 <div style="text-align: center;">
-    <img src="https://i.ibb.co/FxHNTR3/ab5e78630636081bdac14e554e839cfb.png" alt="Shofikul Islam" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="https://camo.githubusercontent.com/d3c851643509b9067570e7080e221052e162ae50a1064ea20c08566d0f562983/68747470733a2f2f692e6962622e636f2f4678484e5452332f61623565373836333036333630383162646163313465353534653833396366622e706e67" alt="Shofikul Islam" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
 
 <h2 align="center">Shofikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
@@ -67,18 +67,19 @@
 <!-- About Section -->
 <h2 style="text-align:center;">Connected With My Community</h2>
 <div style="text-align: center;">
-    <a href="https://t.me/Teamx1337official" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Join Teamx1337official</a>
-    <a href="https://t.me/TX1337_mods" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Join TX1337_mods</a>
-    <a href="https://t.me/TX1337_giveaway" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Join TX1337_giveaway</a>
+    Join Telegram Channels:
+    <span class="bullet">•</span> <a href="https://t.me/Teamx1337official" style="text-decoration: none; color: inherit;">Teamx1337official</a>
+    <span class="bullet">•</span> <a href="https://t.me/TX1337_mods" style="text-decoration: none; color: inherit;">TX1337_mods</a>
+    <span class="bullet">•</span> <a href="https://t.me/TX1337_giveaway" style="text-decoration: none; color: inherit;">TX1337_giveaway</a>
 </div>
 <p style="text-align:center; color:#000; font-weight:bold;">
-    Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337">Subscribe Now</a><br>
-    Visit My Website: <a href="https://teamxstore.com">Visit Now</a>
+    Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337" style="text-decoration: none; color: inherit;">Subscribe Now</a>
+    Visit My Website: <a href="https://teamxstore.com" style="text-decoration: none; color: inherit;">Visit Now</a>
 </p>
 
 <h5 style="text-align:center; font-weight:bold;">
     You can reach me anytime at: xofikul@gmail.com<br>
-    Ask me about anything: <a href="https://t.me/S80F9K6L1337">Telegram</a>
+    Ask me about anything: <a href="https://t.me/S80F9K6L1337" style="text-decoration: none; color: inherit;">Telegram</a>
 </h5>
 
 ## Use To Code | Familiar With 
