@@ -67,9 +67,9 @@
 <h2 style="text-align:center;">Connected With My Community</h2>
 <div style="text-align: center;">
     Join Telegram Channels:
-    <span class="bullet">•</span> <a href="https://t.me/Teamx1337official" style="text-decoration: none; color: inherit;">Teamx1337official</a>
-    <span class="bullet">•</span> <a href="https://t.me/TX1337_mods" style="text-decoration: none; color: inherit;">TX1337_mods</a>
-    <span class="bullet">•</span> <a href="https://t.me/TX1337_giveaway" style="text-decoration: none; color: inherit;">TX1337_giveaway</a>
+    <span class="bullet">•</span> <a href="https://t.me/Teamx1337official" style="text-decoration: none; color: inherit;">Teamx1337official</a> <br>
+    <span class="bullet">•</span> <a href="https://t.me/TX1337_mods" style="text-decoration: none; color: inherit;">TX1337_mods</a><br>
+    
 </div>
 <p style="text-align:center; color:#000; font-weight:bold;">
     Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337" style="text-decoration: none; color: inherit;">Subscribe Now</a>
