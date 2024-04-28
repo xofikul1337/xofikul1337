@@ -31,27 +31,27 @@
   <samp>
     <a href="https://www.google.com/search?q=Shofikul+Islam">ã€Œ Google Me ã€</a>
     <br>
-    ã€Œ I am a programmer and intermediate developer from <b>Bangladesh</b> ã€
+    ã€Œ I am a skilled UI/UX designer and Android app developer, with additional expertise in front-end web development. I can also create full-stack Telegram bots. ã€
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shofikul Islam" />
+ <a href="https://www.facebook.com/S80F9KU50/" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
  </a>
- <a href="https://linkedin.com/in/shofikulislam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shofikul Islam"/>
+ <a href="https://youtube.com/@teamxofficial-1337" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
  </a>
- <a href="https://twitter.com/shofikul_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://www.linkedin.com/in/shofikul-islam-76b01322a?originalSubdomain=bd" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
- <a href="https://instagram.com/shofikul.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shofikul Islam" />
+ <a href="https://www.instagram.com/itz_shofikul_islam/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
  </a> 
- <a href="https://facebook.com/shofikul.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shofikul Islam"  />
+ <a href="https://t.me/S80F9K6L1337" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"  />
   </a> 
 </p>
 <br />
@@ -89,37 +89,8 @@
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=shofikuldev&repo=iTasks&border_color=181717&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=181717)](https://github.com/shofikuldev/iTasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=shofikuldev&repo=urFolio&border_color=181717&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=181717)](https://github.com/shofikuldev/urFolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=shofikuldev&repo=web-projects&border_color=181717&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=181717)](https://github.com/shofikuldev/web-projects)
-[![Shofikuldev Readme](https://github-readme-stats.vercel.app/api/pin/?username=shofikuldev&repo=shofikuldev&border_color=181717&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=181717)](https://github.com/shofikuldev/shofikuldev)
-
-<p align="left">
-  <a href="https://github.com/shofikuldev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
 <p align="center">
-  <a href="https://github.com/shofikuldev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shofikuldev&theme=radical&border=181717&background=0D1117" alt="Shofikul Islam's GitHub streak"/>
+  <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1">
+    <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Me" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/shofikuldev">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shofikuldev&theme=radical" alt="Shofikul Islam's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/shofikuldev"><img alt="Shofikul Islam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=shofikuldev&show_icons=true&count_private=true&theme=react&border_color=181717&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/shofikuldev"><img alt="Shofikul Islam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=shofikuldev&langs_count=8&layout=compact&theme=react&border_color=181717&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Shofikul Islam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shofikuldev&custom_title=Shofikul%20Islam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=181717&line=181717&point=181717&area_color=FFFFFF&title_color=FFFFFF&area=true)
