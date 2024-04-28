@@ -6,6 +6,10 @@
 </head>
 <body>
 
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/FxHNTR3/ab5e78630636081bdac14e554e839cfb.png" alt="Shofikul Islam" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
+
 <h2 align="center">Shofikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <p align="center">
@@ -27,7 +31,7 @@
 
 <p align="center"> 
     <hr>
-    <a https://github.com/xofikul1337
+    <a href="https://github.com/xofikul1337">
         <img src="https://img.shields.io/badge/My%20Portfolio-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="My Portfolio">
     </a>
     <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1" style="margin-left: 20px;">
@@ -62,11 +66,12 @@
 
 <!-- About Section -->
 <h2 style="text-align:center;">Connected With My Community</h2>
+<div style="text-align: center;">
+    <a href="https://t.me/Teamx1337official" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Join Teamx1337official</a>
+    <a href="https://t.me/TX1337_mods" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Join TX1337_mods</a>
+    <a href="https://t.me/TX1337_giveaway" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 4px;">Join TX1337_giveaway</a>
+</div>
 <p style="text-align:center; color:#000; font-weight:bold;">
-    Join Telegram Channels:<br>
-    <span class="bullet">•</span> <a href="https://t.me/Teamx1337official">Teamx1337official</a><br>
-    <span class="bullet">•</span> <a href="https://t.me/TX1337_mods">TX1337_mods</a><br>
-    <span class="bullet">•</span> <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a><br>
     Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337">Subscribe Now</a><br>
     Visit My Website: <a href="https://teamxstore.com">Visit Now</a>
 </p>
