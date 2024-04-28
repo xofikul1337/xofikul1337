@@ -28,7 +28,7 @@
 
 
 <p align="center"> 
-  <samp>
+
 <hr>
 <p align="center">
   <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1">
@@ -80,9 +80,6 @@ Ask me about anything [here](https://t.me/S80F9K6L1337)
  </h5>
 
 </b>
-
-<br/>
-<br/>
 <br/>
 
 ## Use To Code | Familiar With 
