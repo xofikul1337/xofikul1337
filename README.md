@@ -36,8 +36,10 @@
   </a>
 </p>
 
-<p>
-  I am the founder of TEAM X 1337. Join now community to growth your knowledge and learn hacking and techy tips from all over the world.</P>
+<p style="text-align:center; color:#FF0000; font-weight:bold;">
+  I am the founder of TEAM X 1337. Join now community to growth your knowledge and learn hacking and techy tips from all over the world. UI UX Designer And Developer, Android App Developer, Front End Developer, Website Full Stack Developer, Telegram Bot Writer of Trickbd.
+</p>
+
     
 <h4>Follow Me </h4>
 <p align="center">
