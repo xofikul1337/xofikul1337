@@ -8,9 +8,8 @@
 
 <div style="text-align: center;">
     <img src="https://camo.githubusercontent.com/d3c851643509b9067570e7080e221052e162ae50a1064ea20c08566d0f562983/68747470733a2f2f692e6962622e636f2f4678484e5452332f61623565373836333036333630383162646163313465353534653833396366622e706e67" alt="Shofikul Islam" style="border-radius: 50%; width: 150px; height: 150px;">
+    <h2>Shofikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 </div>
-
-<h2 align="center">Shofikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <p align="center">
     <a href="https://github.com/xofikul1337">
