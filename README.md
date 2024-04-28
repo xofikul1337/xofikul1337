@@ -29,22 +29,17 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Shofikul+Islam">Find Me Google  </a>
-    <br>
-  I am the founder of TEAM X 1337. Join now community to growth your knowledge and learn hacking and techy tips from all over the world.
-    <br>
-     Join Telegram Chanel: <a href="https://t.me/Teamx1337official">Teamx1337official</a> 
-    <br>
-     MODZ Chanel: <a href="https://t.me/TX1337_mods">TX1337_mods</a> 
-    <br>
-     Bins Chanel: <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a> 
-    <br>
-    Subscribe YouTube: <a href="https://youtube.com/@teamxofficial-1337">Teamxofficial-1337</a> 
-    <br>
-    ã€Œ My website: <a href="https://teamxstore.com">Teamxstore</a> 
-  </samp>
+<hr>
+<p align="center">
+  <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1">
+    <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Find Me In Google" />
+  </a>
 </p>
 
+<p>
+  I am the founder of TEAM X 1337. Join now community to growth your knowledge and learn hacking and techy tips from all over the world.</P>
+    
+<h4>Follow Me </h4>
 <p align="center">
  <a href="https://www.facebook.com/S80F9KU50/" target="blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -65,13 +60,21 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Connected With My Coomunt
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- &emsp; Learning new ways and words is my hobby <br/><br/>
-  &emsp; I enjoy coding and sharing knowledge<br/><br/>
+<br>
+  Join Telegram Chanel: <a href="https://t.me/Teamx1337official">Teamx1337official</a>
+  <br>
+  MODZ Chanel: <a href="https://t.me/TX1337_mods">TX1337_mods</a>
+  <br>
+  Bins Chanel: <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a>
+  <br>
+  Subscribe YouTube: <a href="https://youtube.com/@teamxofficial-1337">Teamxofficial-1337</a>
+  <br>
+  ã€Œ My website: <a href="https://teamxstore.com">Teamxstore</a>
+  </samp>
+  </p>
  &emsp; You can reach me anytime at: xofikul@gmail.com<br/><br/>
   &emsp; Ask me about anything [here](https://t.me/S80F9K6L1337)
 
@@ -95,9 +98,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
 ![Hosting](https://img.shields.io/badge/Hosting-0078D4?style=for-the-badge&labelColor=black&logo=microsoft%20azure&logoColor=0078D4)
 
-<hr>
-<p align="center">
-  <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1">
-    <img src="https://img.shields.io/badge/Google%20Me-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Me" />
-  </a>
-</p>
