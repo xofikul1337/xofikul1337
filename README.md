@@ -3,7 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shofikul Islam</title>
+    
+    <style>
+        /* Style for animated bullets */
+        .bullet {
+            display: inline-block;
+            animation: bullet-animation 1s infinite alternate;
+        }
+
+        @keyframes bullet-animation {
+            0% { transform: scale(1); }
+            100% { transform: scale(1.5); }
+        }
+    </style>
 </head>
 <body>
 
@@ -37,7 +49,7 @@
     Programmer & Developer: App | Web | TG Bot. Founder Of: TEAM X 1337 Learn Hacking And Get Premium Tools Join Now TEAM X 1337
 </p>
 
-<h4>Follow Me</h4>
+<h4 align="center">Follow Me</h4>
 <p align="center">
     <a href="https://www.facebook.com/S80F9KU50/" target="blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -61,20 +73,16 @@
 <!-- About Section -->
 <h2 style="text-align:center;">Connected With My Community</h2>
 <p style="text-align:center; color:#000; font-weight:bold;">
-    Join Telegram Channels:
-    <br>
-    <a href="https://t.me/Teamx1337official">Teamx1337official</a> |
-    <a href="https://t.me/TX1337_mods">TX1337_mods</a> |
-    <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a>
-    <br>
-    Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337">Subscribe Now</a>
-    <br>
+    Join Telegram Channels:<br>
+    <span class="bullet">•</span> <a href="https://t.me/Teamx1337official">Teamx1337official</a><br>
+    <span class="bullet">•</span> <a href="https://t.me/TX1337_mods">TX1337_mods</a><br>
+    <span class="bullet">•</span> <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a><br>
+    Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337">Subscribe Now</a><br>
     Visit My Website: <a href="https://teamxstore.com">Visit Now</a>
 </p>
 
 <h5 style="text-align:center; font-weight:bold;">
-    You can reach me anytime at: xofikul@gmail.com
-    <br>
+    You can reach me anytime at: xofikul@gmail.com<br>
     Ask me about anything: <a href="https://t.me/S80F9K6L1337">Telegram</a>
 </h5>
 
