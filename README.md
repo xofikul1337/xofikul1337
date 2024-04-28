@@ -62,7 +62,7 @@
 <!-- About Section -->
  # Connected With My Coomunt
  
-<p>
+<b>
 <br>
   Join Telegram Chanel: <a href="https://t.me/Teamx1337official">Teamx1337official</a>
   <br>
@@ -75,10 +75,11 @@
   ã€Œ My website: <a href="https://teamxstore.com">Teamxstore</a>
   </samp>
   </p>
- &emsp; You can reach me anytime at: xofikul@gmail.com<br/><br/>
+ <h5>You can reach me anytime at: xofikul@gmail.com<br/><br/>
   &emsp; Ask me about anything [here](https://t.me/S80F9K6L1337)
+ </h5>
 
-</p>
+</b>
 
 <br/>
 <br/>
