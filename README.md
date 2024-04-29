@@ -10,11 +10,11 @@
 
 <p align="center">
     <a href="https://github.com/xofikul1337">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things%0ADeveloper%3A%20Android%20app%0AFull%20stack%20developer%3A%20Telegram%20bot&center=true&width=380&height=45" alt="Typing SVG">
     </a>
 </p>
 
-<a href="https://komarev.com/ghpvc/?username=xofikul1337">
+<a href="https://github.com/xofikul1337">
     <img align="right" src="https://komarev.com/ghpvc/?username=xofikul1337&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -27,7 +27,7 @@
 
 <p align="center"> 
     <hr>
-    <a https://github.com/xofikul1337
+    <a href="https://github.com/xofikul1337">
         <img src="https://img.shields.io/badge/My%20Portfolio-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="My Portfolio">
     </a>
     <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1" style="margin-left: 20px;">
@@ -90,6 +90,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717)
 ![Hosting](https://img.shields.io/badge/Hosting-0078D4?style=for-the-badge&labelColor=black&logo=microsoft%20azure&logoColor=0078D4)
-
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031)
 </body>
 </html>
