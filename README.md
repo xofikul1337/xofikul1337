@@ -35,8 +35,7 @@
     </a>
 </p>
 
-<b align="center">Programmer & Developer: App | Web | TG Bot. I always like to learn new things. 
-</b>
+<b align="center">I like to self-learning</b>
 
 <h4 align="center">Follow Me Or Contact</h4>
 <p align="center">
