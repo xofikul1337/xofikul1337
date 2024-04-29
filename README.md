@@ -35,9 +35,9 @@
     </a>
 </p>
 
-<p style="text-align:center; color:#FF0000; font-weight:bold;">
-    Programmer & Developer: App | Web | TG Bot. Founder Of: TEAM X 1337 Learn Hacking And Get Premium Tools Join Now TEAM X 1337
-</p>
+<b style="text-align:center; color:#FF0000; font-weight:bold;">
+    Programmer & Developer: App | Web | TG Bot. Founder Of: TEAM X 1337 . I always like to learn new things. 
+</b>
 
 <h4 align="center">Follow Me</h4>
 <p align="center">
@@ -61,9 +61,10 @@
 <br />
 
 <!-- About Section -->
-<h2 style="text-align:center;">Connected With My Community</h2>
+<h3 style="text-align:center;">Connected With My Community</h3>
+<h5>Learn Hacking And Get Premium Tools Join Now TEAM X 1337</h5>
 <p style="text-align:center; color:#000; font-weight:bold;">
-    Join Telegram Channels:<br>
+    Follow Channel:<br>
     <span class="bullet">•</span> <a href="https://t.me/Teamx1337official">Teamx1337official</a><br>
     <span class="bullet">•</span> <a href="https://t.me/TX1337_mods">TX1337_mods</a><br>
     <span class="bullet">•</span> <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a><br>
