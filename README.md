@@ -36,7 +36,7 @@
 </p>
 
 <b style="text-align:center; color:#FF0000; font-weight:bold;">
-    Programmer & Developer: App | Web | TG Bot. I always like to learn new things. 
+    Programmer & Developer: App | Web | TG Bot.<br>I always like to learn new things. 
 </b>
 
 <h4 align="center">Follow Me Or Contact</h4>
