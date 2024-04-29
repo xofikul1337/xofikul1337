@@ -34,8 +34,7 @@
         <img src="https://img.shields.io/badge/Find%20me%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Find Me In Google" />
     </a>
 </p>
-
-<b align="center">I like to self-learning</b>
+<hr>
 
 <h4 align="center">Follow Me Or Contact</h4>
 <p align="center">
