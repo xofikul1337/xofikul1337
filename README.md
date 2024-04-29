@@ -7,10 +7,9 @@
 <body>
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
-  </p>
-    
+  
 <h2 align="center">Shofikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-
+</p>
 <p align="center">
     <a href="https://github.com/xofikul1337" style="text-decoration: none;">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Frontend%20Web%20Developer;Android%20App%20Developer;Full%20Stack%20TG%20Bot%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing SVG">
