@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://github.com/xofikul1337">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things%0ADeveloper%3A%20Android%20app%0AFull%20stack%20developer%3A%20Telegram%20bot&center=true&width=380&height=45" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Frontend%20Web%20Developer;Android%20App%20Developer;Full%20Stack%20TG%20Bot%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing SVG">
     </a>
 </p>
 
@@ -36,7 +36,7 @@
 </p>
 
 <b style="text-align:center; color:#FF0000; font-weight:bold;">
-    Programmer & Developer: App | Web | TG Bot. Founder Of: TEAM X 1337 . I always like to learn new things. 
+    Programmer & Developer: App | Web | TG Bot. I always like to learn new things. 
 </b>
 
 <h4 align="center">Follow Me</h4>
@@ -64,10 +64,18 @@
 <h3 style="text-align:center;">Connected With My Community</h3>
 <h5>Learn Hacking And Get Premium Tools Join Now TEAM X 1337</h5>
 <p style="text-align:center; color:#000; font-weight:bold;">
-    Follow Channel:<br>
-    <span class="bullet">•</span> <a href="https://t.me/Teamx1337official">Teamx1337official</a><br>
-    <span class="bullet">•</span> <a href="https://t.me/TX1337_mods">TX1337_mods</a><br>
-    <span class="bullet">•</span> <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a><br>
+    Follow Channel:
+    <table style="margin: 0 auto;">
+        <tr>
+            <td>• <a href="https://t.me/Teamx1337official">Teamx1337official</a></td>
+        </tr>
+        <tr>
+            <td>• <a href="https://t.me/TX1337_mods">TX1337_mods</a></td>
+        </tr>
+        <tr>
+            <td>• <a href="https://t.me/TX1337_giveaway">TX1337_giveaway</a></td>
+        </tr>
+    </table>
     Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337">Subscribe Now</a><br>
     Visit My Website: <a href="https://teamxstore.com">Visit Now</a>
 </p>
