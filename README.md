@@ -39,7 +39,7 @@
     Programmer & Developer: App | Web | TG Bot. I always like to learn new things. 
 </b>
 
-<h4 align="center">Follow Me</h4>
+<h4 align="center">Follow Me Or Contact</h4>
 <p align="center">
     <a href="https://www.facebook.com/S80F9KU50/" target="blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
