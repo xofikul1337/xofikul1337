@@ -10,10 +10,7 @@
   <img width="140" src="https://xofikul1337.github.io/xofikul1337/assets/shofikul.jpg" style="border-radius: 50%; border: 3px solid tomato;">
   
 <h2 align="center"><span style="animation: color-change 1s infinite alternate; @keyframes color-change { 0% { color: red; } 50% { color: blue; } 100% { color: green; } }">Shofikul</span> Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-<!--Coded By : Shofikul Islam | If you use my readme MD .please give me credit Xd-->
-
-
-
+<!-- Coded By: Shofikul Islam | If you use my README.md, please give me credit! XD -->
 
 </p>
 <p align="center">
@@ -67,30 +64,13 @@
 
 ## Use To Code | Familiar With 
 
-| Java | HTML | CSS |
-|----------|----------|----------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6) |
-| JavaScript | PHP | Python |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB) |
-| Firebase | Google | Git |
-| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28) | ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&labelColor=black&logo=google%20sheets&logoColor=34A853) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032) |
-| GitHub | Hosting | Vue |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=181717) | ![Hosting](https://img.shields.io/badge/Hosting-0078D4?style=for-the-badge&labelColor=black&logo=microsoft%20azure&logoColor=0078D4) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D) |
-| React.js | Angular.js | Markdown |
-| ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB) | ![Angular.js](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&labelColor=black&logo=angular&logoColor=DD0031) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&labelColor=black&logo=markdown&logoColor=000000) |
-
-<!-- About Section -->
-<h3 style="text-align:center;">Connected With My Community</h3>
-<h4>Learn Hacking And Get Premium Tools Join Now TEAM X 1337</h4>
-<p style="text-align:center; color:#000; font-weight:bold;">
-    Follow Channel:
-    <table style="margin: 0 auto;">
-        <tr>
-            <td>• <a href="https://t.me/Teamx1337official" style="text-decoration: none;">Teamx1337official</a></td>
-        </tr>
-        <tr>
-            <td>• <a href="https://t.me/TX1337_mods" style="text-decoration: none;">TX1337_mods</a>
-
+| Languages | Frontend | Backend | Tools & Others |
+|-----------|----------|---------|----------------|
+| Java      | HTML     | CSS     | Firebase       |
+| JavaScript| PHP      | Python  | Google Sheets  |
+|           |          |         | Git            |
+| GitHub    | Hosting  | Vue.js  | React.js       |
+|           |          | Angular | Markdown       |
 
 <!-- About Section -->
 <h3 style="text-align:center;">Connected With My Community</h3>
@@ -103,10 +83,6 @@
         </tr>
         <tr>
             <td>• <a href="https://t.me/TX1337_mods" style="text-decoration: none;">TX1337_mods</a></td>
-d>
-        </tr>
-        <tr>
-        
         </tr>
     </table>
     <p>
@@ -118,8 +94,6 @@ d>
     You can reach me anytime at: xofikul@gmail.com<br>
     Ask me about anything: <a href="https://t.me/S80F9K6L1337" style="text-decoration: none;">Telegram</a>
 </h4>
-
-
 
 </body>
 </html>
