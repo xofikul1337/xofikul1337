@@ -65,7 +65,7 @@
 
 <!-- About Section -->
 <h3 style="text-align:center;">Connected With My Community</h3>
-<h5>Learn Hacking And Get Premium Tools Join Now TEAM X 1337</h5>
+<h4>Learn Hacking And Get Premium Tools Join Now TEAM X 1337</h4>
 <p style="text-align:center; color:#000; font-weight:bold;">
     Follow Channel:
     <table style="margin: 0 auto;">
@@ -83,10 +83,10 @@
     Visit My Website: <a href="https://teamxstore.com" style="text-decoration: none;">Visit Now</a>
 </p>
 
-<h5 style="text-align:center; font-weight:bold;">
+<h4 style="text-align:center; font-weight:bold;">
     You can reach me anytime at: xofikul@gmail.com<br>
     Ask me about anything: <a href="https://t.me/S80F9K6L1337" style="text-decoration: none;">Telegram</a>
-</h5>
+</h4>
 
 ## Use To Code | Familiar With 
 
