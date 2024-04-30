@@ -10,6 +10,8 @@
   <img width="140" src="https://xofikul1337.github.io/xofikul1337/assets/shofikul.jpg" style="border-radius: 50%; border: 3px solid tomato;">
   
 <h2 align="center"><span style="animation: color-change 1s infinite alternate; @keyframes color-change { 0% { color: red; } 50% { color: blue; } 100% { color: green; } }">Shofikul</span> Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<!--Coded By : Shofikul Islam | If you use my readme MD .please give me credit Xd-->
+
 
 
 
@@ -104,9 +106,10 @@
 d>
         </tr>
         <tr>
-            <td>• <a href="https://t.me/TX1337_giveaway" style="text-decoration: none;">TX1337_giveaway</a></td>
+        
         </tr>
     </table>
+    <p>
     Subscribe to YouTube: <a href="https://youtube.com/@teamxofficial-1337" style="text-decoration: none;">Subscribe Now</a><br>
     Visit My Website: <a href="https://teamxstore.com" style="text-decoration: none;">Visit Now</a>
 </p>
