@@ -7,7 +7,7 @@
 </head>
 <body>
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <img width="140" src="https://xofikul1337.github.io/xofikul1337/assets/shofikul.jpg" />
   
 <h2 align="center"><span style="animation: color-change 1s infinite alternate; @keyframes color-change { 0% { color: red; } 50% { color: blue; } 100% { color: green; } }">Shofikul</span> Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
