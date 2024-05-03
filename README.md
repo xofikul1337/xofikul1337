@@ -27,12 +27,12 @@
 
 <!-- Intro  -->
 <h3 align="center" style="margin-bottom: 0;">
-    <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://github.com/xofikul1337" style="text-decoration: none;">Shofikul Islam</a></b></samp>
+    <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://xofikul1337.github.io/dev/" style="text-decoration: none;">Shofikul Islam</a></b></samp>
 </h3>
 
 <p align="center"> 
     <hr>
-    <a href="https://github.com/xofikul1337" style="text-decoration: none;">
+    <a href="https://xofikul1337.github.io/dev/" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/My%20Portfolio-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white" alt="My Portfolio">
     </a>
     <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam&oq=te&gs_lcrp=EgZjaHJvbWUqBggDEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIGCAMQRRg7MgYIBBBFGDsyBggFEEUYOzIGCAYQRRg5Mg0IBxAAGJECGIAEGIoFMhMICBAAGIMBGJECGLEDGIAEGIoFMg0ICRAAGIMBGLEDGIAE0gEIMTIzNWowajSoAgCwAgA&sourceid=chrome-mobile&ie=UTF-8#ip=1" style="margin-left: 20px; text-decoration: none;">
