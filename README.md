@@ -55,8 +55,3 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake Animation
-
-```markdown
-![Snake animation](https://github.com/xofikul1337/xofikul1337/blob/output/github-contribution-grid-snake.svg)
