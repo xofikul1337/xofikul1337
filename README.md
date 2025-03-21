@@ -49,14 +49,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xofikul1337&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xofikul1337&theme=radical" />
-  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofikul1337&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake Animation
-
-```markdown
-![Snake animation](https://github.com/xofikul1337/xofikul1337/blob/output/github-contribution-grid-snake.svg)
