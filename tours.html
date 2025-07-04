@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SongiSathir Tours Package</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #2c3e50;
+            --text-color: #333;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f5f7fa;
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            color: #7f8c8d;
+        }
+
+        .packages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .package-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: var(--transition);
+        }
+
+        .package-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .package-image {
+            position: relative;
+            height: 200px;
+            overflow: hidden;
+        }
+
+        .package-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: var(--transition);
+        }
+
+        .package-card:hover .package-image img {
+            transform: scale(1.05);
+        }
+
+        .package-content {
+            padding: 20px;
+        }
+
+        .package-title {
+            font-size: 1.4rem;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        .package-description {
+            color: #7f8c8d;
+            margin-bottom: 15px;
+            font-size: 0.95rem;
+        }
+
+        .package-reviews {
+            display: flex;
+            align-items: center;
+            color: #f39c12;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+
+        .package-reviews i {
+            margin-right: 5px;
+        }
+
+        .package-price {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 20px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+
+        .price-amount {
+            font-size: 1.5rem;
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+
+        .price-per {
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+
+        .book-btn {
+            background-color: var(--secondary-color);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: var(--transition);
+        }
+
+        .book-btn:hover {
+            background-color: #2980b9;
+        }
+
+        .user-image {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 10px;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .packages-grid {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            }
+            
+            header h1 {
+                font-size: 2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .packages-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>SongiSathir Tours Package</h1>
+            <p>Discover the beauty of Bangladesh with our exclusive tour packages</p>
+        </header>
+
+        <div class="packages-grid">
+            <!-- Package 1 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Cox's Bazar Beach">
+                </div>
+                <div class="package-content">
+                    <h3 class="package-title">কক্সবাজার সমুদ্র সৈকত ভ্রমণ</h3>
+                    <p class="package-description">বিশ্বের দীর্ঘতম প্রাকৃতিক সমুদ্র সৈকতে ব্যয় করুন অবিস্মরণীয় সময়। উপভোগ করুন সূর্যাস্তের মনোরম দৃশ্য।</p>
+                    <div class="package-reviews">
+                        <img src="https://randomuser.me/api/portraits/women/43.jpg" alt="User" class="user-image">
+                        <span>(২৫ রিভিউ)</span>
+                    </div>
+                    <div class="package-price">
+                        <div>
+                            <span class="price-amount">৩৭০০</span>
+                            <span class="price-per">টাকা /প্রতি ব্যক্তি</span>
+                        </div>
+                        <button class="book-btn">বুক করুন</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 2 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Sundarbans">
+                </div>
+                <div class="package-content">
+                    <h3 class="package-title">সুন্দরবন বন্যপ্রাণী অভিযান</h3>
+                    <p class="package-description">বিশ্বের বৃহত্তম ম্যানগ্রোভ বনে রোমাঞ্চকর অভিযান। রয়েল বেঙ্গল টাইগার দেখার সুযোগ।</p>
+                    <div class="package-reviews">
+                        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="User" class="user-image">
+                        <span>(১৮ রিভিউ)</span>
+                    </div>
+                    <div class="package-price">
+                        <div>
+                            <span class="price-amount">৪৫০০</span>
+                            <span class="price-per">টাকা /প্রতি ব্যক্তি</span>
+                        </div>
+                        <button class="book-btn">বুক করুন</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 3 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="https://images.unsplash.com/photo-1582977322210-f5e866a0e7b4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Sylhet Tea Garden">
+                </div>
+                <div class="package-content">
+                    <h3 class="package-title">সিলেট চা বাগান ভ্রমণ</h3>
+                    <p class="package-description">সবুজ চা বাগানের মনোরম দৃশ্য উপভোগ করুন। ভ্রমণ করুন জাফলং ও রাতারগুল সোয়াম্প ফরেস্ট।</p>
+                    <div class="package-reviews">
+                        <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="User" class="user-image">
+                        <span>(৩২ রিভিউ)</span>
+                    </div>
+                    <div class="package-price">
+                        <div>
+                            <span class="price-amount">৩২০০</span>
+                            <span class="price-per">টাকা /প্রতি ব্যক্তি</span>
+                        </div>
+                        <button class="book-btn">বুক করুন</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 4 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="https://images.unsplash.com/photo-1564569918956-9a1c9a5e0b6f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Bandarban">
+                </div>
+                <div class="package-content">
+                    <h3 class="package-title">বান্দরবান পাহাড়ি ভ্রমণ</h3>
+                    <p class="package-description">বান্দরবানের পাহাড়, ঝর্ণা ও উপজাতীয় সংস্কৃতি উপভোগ করুন। নীলগিরি ও নীলাচলের অপূর্ব দৃশ্য।</p>
+                    <div class="package-reviews">
+                        <img src="https://randomuser.me/api/portraits/men/76.jpg" alt="User" class="user-image">
+                        <span>(২৮ রিভিউ)</span>
+                    </div>
+                    <div class="package-price">
+                        <div>
+                            <span class="price-amount">৫২০০</span>
+                            <span class="price-per">টাকা /প্রতি ব্যক্তি</span>
+                        </div>
+                        <button class="book-btn">বুক করুন</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 5 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="https://images.unsplash.com/photo-1566438480900-0609be27a4be?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Saint Martin">
+                </div>
+                <div class="package-content">
+                    <h3 class="package-title">সেন্ট মার্টিন দ্বীপ ভ্রমণ</h3>
+                    <p class="package-description">বাংলাদেশের একমাত্র প্রবাল দ্বীপে অনবদ্য অভিজ্ঞতা। ক্রিস্টাল ক্লিয়ার পানিতে স্নান ও সূর্যাস্ত উপভোগ করুন।</p>
+                    <div class="package-reviews">
+                        <img src="https://randomuser.me/api/portraits/women/89.jpg" alt="User" class="user-image">
+                        <span>(৩৫ রিভিউ)</span>
+                    </div>
+                    <div class="package-price">
+                        <div>
+                            <span class="price-amount">৬৮০০</span>
+                            <span class="price-per">টাকা /প্রতি ব্যক্তি</span>
+                        </div>
+                        <button class="book-btn">বুক করুন</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Package 6 -->
+            <div class="package-card">
+                <div class="package-image">
+                    <img src="https://images.unsplash.com/photo-1566438480900-0609be27a4be?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="Rangamati">
+                </div>
+                <div class="package-content">
+                    <h3 class="package-title">রাঙ্গামাটি লেক ভ্রমণ</h3>
+                    <p class="package-description">কাপ্তাই লেকের নৈসর্গিক সৌন্দর্য উপভোগ করুন। উপজাতীয় গ্রাম ও হ্যান্ডিক্রাফট দেখার সুযোগ।</p>
+                    <div class="package-reviews">
+                        <img src="https://randomuser.me/api/portraits/men/54.jpg" alt="User" class="user-image">
+                        <span>(২১ রিভিউ)</span>
+                    </div>
+                    <div class="package-price">
+                        <div>
+                            <span class="price-amount">৪২০০</span>
+                            <span class="price-per">টাকা /প্রতি ব্যক্তি</span>
+                        </div>
+                        <button class="book-btn">বুক করুন</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
