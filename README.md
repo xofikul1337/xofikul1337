@@ -1,34 +1,9 @@
-<p align="center">
-  <img width="140" src="https://xofikul1337.github.io/xofikul1337/assets/shofikul.jpg" style="border-radius:50%;">
-</p>
-
-<h2 align="center">Shofikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h2 align="center">Shofikul Islam</h2>
 
 <p align="center">
   <a href="https://github.com/xofikul1337">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Self%20Taught%20Programmer;Frontend%20Web%20Developer;Flutter%20Dev%20+%20Android%20App%20Developer;Full%20Stack%20TG%20Bot%20Developer;UI%20UX%20with%20Figma;Always%20Learning%20New%20Things&center=true&width=450&height=45">
   </a>
-</p>
-
-<p align="center">
-  <a href="https://xofikul1337.github.io/dev/">
-    <img src="https://img.shields.io/badge/My%20Portfolio-FF0000?style=for-the-badge&logo=hand-clap&logoColor=white">
-  </a>
-  <a href="https://www.google.com/search?q=team+x+1337+shofikul+islam">
-    <img src="https://img.shields.io/badge/Find%20me%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  </a>
-</p>
-
----
-
-### 🚀 Connect with Me
-
-<p align="center">
-  <a href="https://www.facebook.com/S80F9KU50/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://youtube.com/@teamxofficial-1337"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shofikul-islam-76b01322a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/itz_shofikul_islam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://t.me/S80F9K6L1337"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
@@ -49,9 +24,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xofikul1337&show_icons=true&theme=radical" />
   <br>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xofikul1337&layout=compact&theme=radical" />
 </p>
-
----
-
